@@ -16,6 +16,12 @@
     },
     "plugins": [
       "expo-status-bar"
-    ]
+    ],
+    "experiments": {
+      "baseUrl": "/GreenBasket"
+    },
+    "web": {
+      "bundler": "metro"
+    }
   }
 }
